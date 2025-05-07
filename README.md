@@ -1,7 +1,7 @@
 # Projeto com README 
 Um projeto de teste com um arquivo README 💫
 
-<img src="20250425_bing.jpg" alt="foto de pinguim">
+[<img src="20250425_bing.jpg" alt="foto de pinguim">]
 
 ## Tecnologias utilizadas
 - HTML
